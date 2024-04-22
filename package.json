@@ -1,0 +1,33 @@
+{
+  "name": "orm-ecommerce-backend",
+  "version": "1.0.0",
+  "description": "The backend for a fake e-commerce site powered by Express.js API, Sequelize, & a MySQL database",
+  "author": "Ethan Garrison",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "keywords": [
+    "express",
+    "sequelize",
+    "mysql",
+    "mysql2",
+    "javascript",
+    "orm",
+    "ecommerce",
+    "backend"
+  ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
