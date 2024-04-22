@@ -11,21 +11,13 @@ This application showcases the back end for a fake e-commerce site powered by Ex
 ![Screenshot (96)](https://github.com/EGARRISXN/orm-ecommerce-backend/assets/126130230/1a499d9e-2eba-45a5-9869-f67d90debe78)
 ![Screenshot (97)](https://github.com/EGARRISXN/orm-ecommerce-backend/assets/126130230/df4a3d82-4b72-4ceb-a9a4-5e59976b0098)
 
-## Table of Contents
-
-- [Technologies](#technologies)
-- [Acknowledgements](#acknowledgements)
-- [Installation](#installation)
-- [License](#license)
-- [Questions](#questions)
-
 ## Technologies
 
-1. Javascript.
-2. Node.js
-3. Express.js
-4. Sequelize
-5. MySQL
+- Javascript.
+- Node.js
+- Express.js
+- Sequelize
+- MySQL
 
 ## Installation
 
