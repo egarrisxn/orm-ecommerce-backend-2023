@@ -6,7 +6,10 @@ _Initially created in the spring of 2023 for my UCF Full-Stack Web Development B
 
 ## Description
 
-This project showcases the back end for a fake e-commerce site powered by Express.js API, Sequelize, & a MySQL database.
+This application showcases the back end for a fake e-commerce site powered by Express.js, Sequelize, & MySQL.
+
+![Screenshot (96)](https://github.com/EGARRISXN/orm-ecommerce-backend/assets/126130230/1a499d9e-2eba-45a5-9869-f67d90debe78)
+![Screenshot (97)](https://github.com/EGARRISXN/orm-ecommerce-backend/assets/126130230/df4a3d82-4b72-4ceb-a9a4-5e59976b0098)
 
 ## Table of Contents
 
@@ -18,10 +21,11 @@ This project showcases the back end for a fake e-commerce site powered by Expres
 
 ## Technologies
 
-1. Node.js
-2. Express.js
-3. Mysql
+1. Javascript.
+2. Node.js
+3. Express.js
 4. Sequelize
+5. MySQL
 
 ## Installation
 
