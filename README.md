@@ -15,7 +15,7 @@ This application showcases the back end for a fake e-commerce site powered by Ex
 
 - Javascript.
 - Node.js
-- Express.js
+- Express
 - Sequelize
 - MySQL
 
@@ -25,9 +25,9 @@ _Note: MySQL must be installed and running locally on your machine. Also, the se
 
 1. Clone the repository to your local machine.
 2. Create you `.env` file. (Example at `.env.example`).
-3. Run `npm install` to download all dependencies.
-4. Run `npm run seed` to populate sample data for your database.
-5. Lastly, run `npm run start` to start your Express server and start exploring!
+3. Run `npm install`, `pnpm install`, or `yarn install` to download all dependencies.
+4. Run `npm run seed`, `pnpm run seed`, or `yarn run seed` to populate sample data for your database.
+5. Lastly, run `npm run start`, `pnpm run start`, or `yarn run start` to start your Express server and start exploring!
 
 ## Acknowledgements
 
