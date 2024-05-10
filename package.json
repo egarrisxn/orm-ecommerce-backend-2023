@@ -1,7 +1,7 @@
 {
   "name": "orm-ecommerce-backend",
   "version": "1.0.0",
-  "description": "The backend for a fake e-commerce site powered by Express.js API, Sequelize, & a MySQL database",
+  "description": "A backend implementation of a fake e-commerce site database powered by MySQL, Express, Sequelize, & Node.js.",
   "author": "Ethan G",
   "license": "MIT",
   "main": "server.js",
@@ -12,13 +12,13 @@
     "seed": "node seeds/index.js"
   },
   "keywords": [
-    "express",
-    "sequelize",
     "mysql",
     "mysql2",
-    "javascript",
+    "express",
+    "sequelize",
+    "node.js",
     "orm",
-    "ecommerce",
+    "e-commerce",
     "backend"
   ],
   "dependencies": {
